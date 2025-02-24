@@ -1,0 +1,8 @@
+processing system, where necessary sheets are downloaded and updated accordingly. Q5. What is the purpose of the Re-Order 
+Register and How does it work? A. The Re-Order Register tracks stock levels to ensure necessary inventory stock for an Item is maintained. 
+Example Scenarios - Example 1: If 18 sales orders quantity were placed for an item over the last 6 months, the system recommends stocking 3 
+per month. - Example 2: If 2 sales orders quantity exist for an item but only 1 is in stock, when you run the register the system indicates 1 more 
+unit needs to be stocked. Q6. Where can customers find information on returns and shipping? A. Customers can refer to the respective blogs 
+for information about returns, shipping policies, and FAQs. Q7. How does the CRM and Client handle requests? A. Sales Order requests and P&A 
+requests (product inquiries) are sent to the CRM and assigned to the appropriate salesperson. - The client reviews requests and creates quotes 
+or activities based on

@@ -1,0 +1,8 @@
+the inquiry. - All communication between the customer and the team happens via phone or email. Q8. What are the 
+parameters are required to Place an Quote. A. There are different parameters like Name, Email, Phone Number, Address and Comments which 
+are in P&A Requests Form. If a customer wants to know about a product’s details such as price, availability, or other information, they need to 
+submit the P&A Request form available under the product details. Q9. How can customers report site issues? A. If customers encounter any 
+issues with the website (e.g., broken links, missing content, or technical errors), they can: - Report the issue via phone or email. - Provide a 
+screenshot of the issue for better troubleshooting. Frequently Asked Questions (FAQs) Q1. How can a customer modify or cancel an order after 
+it has been placed. A. Customers can cancel or modify their orders by: - Calling the customer service team. - Sending an email with the order 
+details. Note: If an order type is

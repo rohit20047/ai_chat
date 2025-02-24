@@ -1,0 +1,8 @@
+service. Q3.What are the different types of orders? A. Types of Orders: a. Pre-Orders - The Sales Order remains in Incomplete status 
+due to missing details such as weight, quantity, or shipping method. - The order is marked as Back-order until it is fulfilled. - The team contacts 
+vendors to procure the necessary items, generating a Purchase Order. - Once the Purchase Order is completed and stock is available, the order 
+can be fulfilled. b. Completed Payments - If payment is confirmed and stock is available, a tracking number is assigned. - Once the process is 
+finalized, the Sales Order is marked as Complete. - Customers can submit SalesOrder requests related to their order via the Order Status form, 
+which will be assigned to the Sales Order team. Q4. How do we manage eBay listings? A. The team manages product listings on eBay, 
+including: - Adding, Updating and Deleting products. - Only products with stock greater than 1 are listed. - Listings are managed through an 
+automated

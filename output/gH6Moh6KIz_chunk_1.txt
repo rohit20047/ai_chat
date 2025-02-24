@@ -1,0 +1,10 @@
+
+
+Customer Service Team Responsibilities Q1. How can a customer inquire about a product and what happens after a product inquiry is 
+submitted? A. If a customer wants to know about a product’s details such as price, availability, or other information, they need to submit the 
+form available under the product page. This submission raises a P&A request in the CRM, which is then assigned to the team. After reviewing 
+the request, the team follows up by: - Contacting the vendor - Creating a quote for the customer If the customer is satisfied with the quote, the 
+request may be converted into a Sales Order after further communication via phone or email. Q2. How can a customer place an order and How 
+does order tracking work? A. Placing Orders : Customers can place orders through: - The PROS Parts website - Contacting the sales team Order 
+Tracking - After placing an order, customers receive a confirmation email with tracking information. - For further assistance, they can contact 
+customer

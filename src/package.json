@@ -1,0 +1,40 @@
+{
+  "name": "ai-agent",
+  "version": "1.0.0",
+  "main": "src/api/server.js",
+  "scripts": {
+    "start": "node src/api/server.js",
+    "dev": "nodemon src/api/server.js",
+    "build": "tsc",
+    "watch": "tsc -w",
+    "clean": "rimraf dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@datastax/astra-db-ts": "latest",
+    "@google/generative-ai": "^0.22.0",
+    "@langchain/community": "^0.3.32",
+    "@langchain/core": "^0.3.40",
+    "@langchain/google-genai": "^0.1.8",
+    "cors": "^2.8.5",
+    "dotenv": "latest",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "langchain": "^0.3.19",
+    "path": "^0.12.7",
+    "pdf-parse": "^1.1.1",
+    "zod": "^3.24.2",
+    "zod-to-json-schema": "^3.24.3"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "nodemon": "^3.1.9",
+    "rimraf": "^6.0.1",
+    "ts-node": "latest",
+    "typescript": "latest"
+  }
+}
